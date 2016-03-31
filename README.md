@@ -1,0 +1,2 @@
+# HelpDeskTicketSystem
+The project basically allows users to log (Create) tickets into the database and edit the ticket details, change status of the ticket from open to close and delete (purge) the ticket. The ticket system has been implemented using Java and Java Swings in order to allow users to get a more interactive User Interface. The System has modularized based on the functionalities. The queries to the database are fired froma separate class.
